@@ -1,5 +1,8 @@
-<a href="https://app.daily.dev/conradkash"><img align="right" src="assets/c.png"  alt="Kakuru Conrad Akankwasa's Dev Card"/></a>
+<p align=”center”>
 
+<img height="200" src="asssets/c.png" alt="my banner”>
+
+</p>
 ## Hey there 👋, I'm [Conrad K!](https://github.com/ConradKash/)
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ConradKakuru)
@@ -7,8 +10,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/thee.mukiga/)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
-
-<a href="https://app.daily.dev/conradkash"><img align="right" src="https://api.daily.dev/devcards/2cf299f055eb427697a294aefa68e418.png?r=y73" width="200" alt="Kakuru Conrad Akankwasa's Dev Card"/></a>
 
 I am an Open Source enthusiast with a mission to revolutionize AI to solve our everyday problems. 🚀
 
@@ -24,7 +25,7 @@ Like My Work?
 
 <a href="https://www.buymeacoffee.com/conradkash" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<a href="https://app.daily.dev/conradkash"><img align="right" src="https://api.daily.dev/devcards/2cf299f055eb427697a294aefa68e418.png?r=y73" width="200" alt="Kakuru Conrad Akankwasa's Dev Card"/></a>
 
 ### Talking about Personal Stuff:
 
