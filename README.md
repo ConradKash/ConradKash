@@ -1,6 +1,6 @@
 <p align="center">
 
-<img height="200" src="asssets/c.png" alt="my banner">
+<img height="200" src="asssets/C.png" alt="my banner">
 
 </p>
 ## Hey there 👋, I'm [Conrad K!](https://github.com/ConradKash/)
