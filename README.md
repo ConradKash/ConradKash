@@ -8,7 +8,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-<a href="https://app.daily.dev/conradkash"><img src="https://api.daily.dev/devcards/2cf299f055eb427697a294aefa68e418.png?r=y73" width="400" alt="Kakuru Conrad Akankwasa's Dev Card"/></a>
+<a href="https://app.daily.dev/conradkash"><img align="right" src="https://api.daily.dev/devcards/2cf299f055eb427697a294aefa68e418.png?r=y73" width="200" alt="Kakuru Conrad Akankwasa's Dev Card"/></a>
 
 I am an Open Source enthusiast with a mission to revolutionize AI to solve our everyday problems. 🚀
 
