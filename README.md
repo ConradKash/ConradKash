@@ -1,4 +1,4 @@
-<img align="center" alt="" src="ConradKash/asssets/C.png" />
+<a href="https://app.daily.dev/conradkash"><img align="right" src="assets/c.png"  alt="Kakuru Conrad Akankwasa's Dev Card"/></a>
 
 ## Hey there 👋, I'm [Conrad K!](https://github.com/ConradKash/)
 
