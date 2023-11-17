@@ -39,7 +39,7 @@ Like My Work?
 - 💬 &nbsp; Ask me anything [here](https://github.com/ConradKash/ConradKash/issues/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Cloud computing is someone else computer.
 - 📫 &nbsp; Reach me out: kakurucon1234@gmail.com.
-
+[![An image of @conradkash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/conradkash)](https://holopin.io/@conradkash)
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
